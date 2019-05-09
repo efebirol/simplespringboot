@@ -30,6 +30,7 @@ gen
 hs_err_pid*
 ### Gradle template
 .gradle
+gradlew
 /build/
 
 # Ignore Gradle GUI config
